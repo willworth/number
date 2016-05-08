@@ -17,13 +17,13 @@ package uk.co.willworth.number;
  *
  *
  */
-public class IsPrime {
+//public class IsPrime {
 //    int testNumber;
 //
-   +
+
 //
 //    void primeTest(){
 //        if()
-    }
+//    }
 
-}
+//}
