@@ -1,8 +1,6 @@
 package uk.co.willworth.number;
 import java.util.Scanner;
-/**
- * Created by Noelia on 08-May-16.
- */
+
 public class OddEven {
     public static void main(String[] args){
         System.out.println("Welcome to the odd even tester!");

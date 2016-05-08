@@ -1,9 +1,20 @@
 package uk.co.willworth.number;
 
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("This is a test run");
+
+        float value = 102.3f;
+    }
+
+}
+
 /**
  *
  * This will be a simple divisibility test
- * for i in range 0, x
+ * for i in range 3, x
  * if x/i = %0:
 *        print "not a prime!
  *        exit

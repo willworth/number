@@ -1,6 +1,6 @@
 # number
-
-This is a multi class project for basic java toy scripts as I teach myself java.  Nothing interesting, I imagine.
+TODO learn about standard readme formats.
+This is a general large project for basic java toy scripts as I teach myself java.
 
 
 
