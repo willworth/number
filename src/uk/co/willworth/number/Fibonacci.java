@@ -12,10 +12,14 @@ public class Fibonacci {
         int quant = inputScanner.nextInt();
         System.out.println("You have requested the first " + quant + " numbers of the sequence.");
         int count;
+        int first = 0;
+        int second = 1;
         for (count = 0; count <= quant; count = count+1) {
             System.out.println("the count is now " + count);
-           // int first = 0;
-           // int second = 1;
+            int x = first + second;
+            System.out.println("Fib number "+ count +" is " + x);
+            first = second;
+            second = x;
         }
 
 
