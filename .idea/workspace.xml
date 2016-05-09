@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae2a1788-9f67-400f-9142-89028526459b" name="Default" comment="testing intellij git interface">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uk/co/willworth/number/IsPrime.java" afterPath="$PROJECT_DIR$/src/uk/co/willworth/number/IsPrime.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uk/co/willworth/number/Sample.java" afterPath="$PROJECT_DIR$/src/uk/co/willworth/number/Sample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uk/co/willworth/number/Fibonacci.java" afterPath="$PROJECT_DIR$/src/uk/co/willworth/number/Fibonacci.java" />
     </list>
     <ignored path="number.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,17 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/uk/co/willworth/number/OddEven.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -79,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/uk/co/willworth/number/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
               <folding>
                 <element signature="docComment;class#Fibonacci#0" expanded="false" />
               </folding>
@@ -638,18 +627,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/uk/co/willworth/number/Second.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/willworth/number/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -662,10 +651,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/uk/co/willworth/number/Sample.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.53846157">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -681,7 +670,7 @@
     <entry file="file://$PROJECT_DIR$/src/uk/co/willworth/number/OddEven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -689,7 +678,7 @@
     <entry file="file://$PROJECT_DIR$/src/uk/co/willworth/number/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
           <folding>
             <element signature="docComment;class#Fibonacci#0" expanded="false" />
           </folding>
