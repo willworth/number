@@ -12,6 +12,7 @@ public class Fibonacci {
         int quant = inputScanner.nextInt();
         //Catch error input as this will only work for
         // first 45 numbers of Fibonacci as I'm using int.
+        // (-2,147,483,648 <= int <= 2,147,483,647)
 
 
         if (quant >= 45) {
