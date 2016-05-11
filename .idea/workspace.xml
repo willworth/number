@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/uk/co/willworth/number/Fibonacci.java" line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2a1788-9f67-400f-9142-89028526459b" name="Default" comment="testing intellij git interface">
+    <list default="true" id="ae2a1788-9f67-400f-9142-89028526459b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="number.iws" />
@@ -99,6 +99,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="will" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -525,6 +530,13 @@
       <option name="number" value="Default" />
       <updated>1462609949490</updated>
     </task>
+    <task id="LOCAL-00001" summary="testing intellij git interface">
+      <created>1462944987615</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462944987615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
